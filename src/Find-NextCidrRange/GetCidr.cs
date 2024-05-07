@@ -46,7 +46,7 @@ namespace FindNextCIDR {
             public required string Type { get; set; }
             public required string Location { get; set; }
             public required string AddressSpace { get; set; }
-            public required string {roposedCIDR { get; set; }
+            public required string {ProposedCIDR { get; set; }
         }
         public class CustomError {
             public required string Code { get; set; }
